@@ -5,7 +5,7 @@ const anthonyBio = `Hello! My name is Anthony Silva, and I am currently a double
 const tristanBio = "";
 const seanBio = "";
 const noamBio = "";
-const tylerBio = "";
+const tylerBio = "Hi, I’m Tyler, a sophomore majoring in CS at OSU.  Some of my biggest passions include traveling, fitness, food and learning. Feel free to reach out to me through my socials. ";
 
 const officerData: TeamCardItem[] = [
   {
@@ -55,9 +55,10 @@ const officerData: TeamCardItem[] = [
   {
     name: "Tyler Quach",
     role: "Community Outreach",
-    image: "https://avatars.githubusercontent.com/u/158121390?v=4",
+    image: "tylerpfp.jpg",
     github: "https://github.com/Splash791",
-    email: "",
+    linkedin: "https://www.linkedin.com/in/tyler-quach-//",
+    email: "quachty@oregonstate.edu",
     biography: tylerBio,
   },
 ];
